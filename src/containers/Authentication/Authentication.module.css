@@ -1,0 +1,24 @@
+.Controls{
+    align-items: center;
+     margin:20px auto;
+     box-sizing: border-box;
+     padding:25px;
+     width:80%;
+     text-align: center;
+ }
+ 
+ @media(min-width:500px){
+     .Controls{
+         width:500px;
+     
+     }
+ }
+ 
+ .Controls input{
+    
+     padding:9px;
+     margin: 1px;
+     width:80%;
+ }
+ 
+

@@ -1,0 +1,31 @@
+.Input{
+    width:100%;
+    box-sizing: border-box;
+    padding: 15px;
+    
+}
+
+.label{
+    font-weight: bold;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.inputElement{
+    outline: none;
+    box-sizing: border-box;
+    border:1px solid #ccc;
+    background-color: rgb(223, 201, 201);
+    font:inherit;
+    padding: 6px 10px;    
+}
+.inputElement:focus{
+    outline: none;
+    background-color: #ccc;
+    border:1px 1px rgb(150, 198, 226);
+}
+.invalid{
+    border:1px solid rgb(185, 32, 32);
+    background: rgb(223, 145, 145);
+    
+}

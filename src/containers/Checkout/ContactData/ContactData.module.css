@@ -1,0 +1,21 @@
+.ContactOrder{
+   align-items: center;
+    margin:20px auto;
+    box-sizing: border-box;
+    padding:75px; 
+    box-shadow: 0 2px 3px;
+    width:80%;
+}
+
+@media(min-width:500px){
+    .ContactOrder{
+        width:500px;
+    
+    }
+}
+
+.ContactOrder .input{
+    display: block;
+    padding:9px;
+    width:80%;
+}

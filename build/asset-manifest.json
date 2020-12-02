@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.879b03ef.chunk.css",
+    "main.js": "/static/js/main.b90bfa5d.chunk.js",
+    "main.js.map": "/static/js/main.b90bfa5d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.2861da28.js",
+    "runtime~main.js.map": "/static/js/runtime~main.2861da28.js.map",
+    "static/js/2.0e25d8b5.chunk.js": "/static/js/2.0e25d8b5.chunk.js",
+    "static/js/2.0e25d8b5.chunk.js.map": "/static/js/2.0e25d8b5.chunk.js.map",
+    "static/css/3.4daee03a.chunk.css": "/static/css/3.4daee03a.chunk.css",
+    "static/js/3.7ed7e5e4.chunk.js": "/static/js/3.7ed7e5e4.chunk.js",
+    "static/js/3.7ed7e5e4.chunk.js.map": "/static/js/3.7ed7e5e4.chunk.js.map",
+    "static/css/4.79c75930.chunk.css": "/static/css/4.79c75930.chunk.css",
+    "static/js/4.c2428d40.chunk.js": "/static/js/4.c2428d40.chunk.js",
+    "static/js/4.c2428d40.chunk.js.map": "/static/js/4.c2428d40.chunk.js.map",
+    "static/css/5.182185f7.chunk.css": "/static/css/5.182185f7.chunk.css",
+    "static/js/5.16e93195.chunk.js": "/static/js/5.16e93195.chunk.js",
+    "static/js/5.16e93195.chunk.js.map": "/static/js/5.16e93195.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c12298ffe8a9e5057a41fbcde8ed6757.js": "/precache-manifest.c12298ffe8a9e5057a41fbcde8ed6757.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.4daee03a.chunk.css.map": "/static/css/3.4daee03a.chunk.css.map",
+    "static/css/4.79c75930.chunk.css.map": "/static/css/4.79c75930.chunk.css.map",
+    "static/css/5.182185f7.chunk.css.map": "/static/css/5.182185f7.chunk.css.map",
+    "static/css/main.879b03ef.chunk.css.map": "/static/css/main.879b03ef.chunk.css.map",
+    "static/media/burger-logo.png": "/static/media/burger-logo.b8503d26.png"
+  }
+}
